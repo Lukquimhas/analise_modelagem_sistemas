@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Página-1" id="AzOU8Z_K7CHJjohiuz-v">
-    <mxGraphModel dx="881" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,11 +46,11 @@
         <mxCell id="P-kD3ArqMDxizYhUCir3-22" connectable="0" parent="1" style="group;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
           <mxGeometry height="70" width="226" x="294" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="P-kD3ArqMDxizYhUCir3-15" parent="P-kD3ArqMDxizYhUCir3-22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+        <mxCell id="P-kD3ArqMDxizYhUCir3-15" parent="P-kD3ArqMDxizYhUCir3-22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="70" width="226" as="geometry" />
         </mxCell>
-        <mxCell id="P-kD3ArqMDxizYhUCir3-20" parent="P-kD3ArqMDxizYhUCir3-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontStyle=0" value="Motor de recomendação&lt;div&gt;&quot;quem comprou X pediu Y&quot;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="8.75" width="95.10833333333333" x="120.53333333333333" y="26.25" as="geometry" />
+        <mxCell id="P-kD3ArqMDxizYhUCir3-20" parent="P-kD3ArqMDxizYhUCir3-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;fontStyle=0" value="Motor de recomendação&lt;div&gt;&quot;quem comprou X pediu Y&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="8.75" width="95.10833333333333" x="120.53333333333333" y="29.25" as="geometry" />
         </mxCell>
         <mxCell id="P-kD3ArqMDxizYhUCir3-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="80" width="280" x="270" y="430" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="P-kD3ArqMDxizYhUCir3-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="Busca por gênero" vertex="1">
           <mxGeometry height="61.25" width="80" x="50" y="178.75" as="geometry" />
         </mxCell>
-        <mxCell id="P-kD3ArqMDxizYhUCir3-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontStyle=0" value="Pagamento NFC, Geração QR Code PIX" vertex="1">
+        <mxCell id="P-kD3ArqMDxizYhUCir3-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;fontStyle=0" value="Pagamento NFC, Geração QR Code PIX" vertex="1">
           <mxGeometry height="61.25" width="80" x="314" y="340.75" as="geometry" />
         </mxCell>
         <mxCell id="P-kD3ArqMDxizYhUCir3-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="Titúlo/Autor" vertex="1">
@@ -123,6 +123,48 @@
             <mxPoint x="5.649999999999997" y="-35" as="sourcePoint" />
             <mxPoint x="52.733333333333334" y="-78.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="80" width="210" x="30" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Módulo de Cafeteria&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="210" x="30" y="269" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="32" y="293" as="sourcePoint" />
+            <mxPoint x="242.92000000000007" y="293" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="136.92" y="348" as="sourcePoint" />
+            <mxPoint x="136.92" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Menu Carrosel&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="61.25" width="80" x="50" y="288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Menu Digital&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="61.25" width="80" x="150" y="288.75" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="50" width="190" x="40" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-9" edge="1" parent="1" source="MhNEAJSLbU_ufKL8rZvg-8" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="134" y="410" as="sourcePoint" />
+            <mxPoint x="134.41" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Customização&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="61.25" width="80" x="50" y="364.38" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Filtros de Café&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="61.25" width="80" x="140" y="364.38" as="geometry" />
+        </mxCell>
+        <mxCell id="MhNEAJSLbU_ufKL8rZvg-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" value="Carrinho Unificado" vertex="1">
+          <mxGeometry height="60" width="120" x="75" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
