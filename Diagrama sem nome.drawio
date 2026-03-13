@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
+  <diagram name="Página-1" id="AzOU8Z_K7CHJjohiuz-v">
+    <mxGraphModel dx="881" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P-kD3ArqMDxizYhUCir3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;strokeWidth=3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;TOTEM&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;LIVRÁRIA E CAFÉ&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="210" x="309" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="60" width="230" x="560" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="3. Requisitos de Hardware&amp;nbsp;&lt;div&gt;(Fisíco)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="590" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="60" width="210" x="570" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;" value="&lt;div&gt;Impressora Térmica&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="595" y="174.88" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" value="Leitor de Cartão&lt;div&gt;(Maquininha)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="170" x="590" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" value="Tela Touch" vertex="1">
+          <mxGeometry height="60" width="120" x="615" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-10" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#F16966;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="446" y="130" as="sourcePoint" />
+            <mxPoint x="560" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-11" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="130" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="60" width="280" x="270" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="2. Funcionalidades do Sistema&lt;div&gt;(Backend)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="208" x="310" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-22" connectable="0" parent="1" style="group;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="70" width="226" x="294" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-15" parent="P-kD3ArqMDxizYhUCir3-22" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="70" width="226" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-20" parent="P-kD3ArqMDxizYhUCir3-22" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontStyle=0" value="Motor de recomendação&lt;div&gt;&quot;quem comprou X pediu Y&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="8.75" width="95.10833333333333" x="120.53333333333333" y="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="80" width="280" x="270" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="Processamento de Pagamento" vertex="1">
+          <mxGeometry height="30" width="208" x="306" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-25" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.011;exitY=0.4;exitDx=0;exitDy=0;entryX=0.989;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="273.0799999999999" y="456" as="sourcePoint" />
+            <mxPoint x="546.9200000000001" y="456" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="410" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontStyle=0" value="Processamento do cartão físico" vertex="1">
+          <mxGeometry height="61.25" width="80" x="300" y="450.75" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontStyle=0" value="Pagamento NFC, Geração QR Code PIX" vertex="1">
+          <mxGeometry height="61.25" width="80" x="434" y="450.75" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-31" edge="1" parent="1" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="130" as="sourcePoint" />
+            <mxPoint x="260" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="60" width="240" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=13;fontStyle=1" value="1. Interface do Usuário&lt;div&gt;(Frontend)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="50" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;" value="" vertex="1">
+          <mxGeometry height="80" width="215" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=1" value="Módulo de Descoberta" vertex="1">
+          <mxGeometry height="30" width="208" x="32.91999999999999" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-42" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="32" y="183" as="sourcePoint" />
+            <mxPoint x="242.92000000000007" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-43" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="136.92" y="238" as="sourcePoint" />
+            <mxPoint x="136.92" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="Busca por gênero" vertex="1">
+          <mxGeometry height="61.25" width="80" x="50" y="178.75" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;fontStyle=0" value="Pagamento NFC, Geração QR Code PIX" vertex="1">
+          <mxGeometry height="61.25" width="80" x="314" y="340.75" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=12;fontStyle=0" value="Titúlo/Autor" vertex="1">
+          <mxGeometry height="61.25" width="80" x="150" y="178.75" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-46" connectable="0" parent="1" style="group;fontSize=12;" value="" vertex="1">
+          <mxGeometry width="80.98333333333333" x="60.00333333333333" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="P-kD3ArqMDxizYhUCir3-19" edge="1" parent="P-kD3ArqMDxizYhUCir3-46" source="P-kD3ArqMDxizYhUCir3-15" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="P-kD3ArqMDxizYhUCir3-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="5.649999999999997" y="-35" as="sourcePoint" />
+            <mxPoint x="52.733333333333334" y="-78.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
